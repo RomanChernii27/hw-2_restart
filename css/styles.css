@@ -1,0 +1,52 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: black;
+  background-color: #fff;
+}
+ul {
+  list-style-type: none;
+}
+
+.header {
+}
+
+.menu-navigation {
+}
+
+.navigation-logo {
+}
+
+.logo-title {
+}
+
+.list-navigation {
+}
+
+.list-item-nav {
+}
+.link-list-nav {
+  color: #2e2f42;
+}
+
+.link-list-nav:hover,
+.link-list-nav:focus {
+  color: #404bbf;
+}
+
+.menu-address {
+}
+
+.list-address {
+}
+
+.list-item-address {
+}
+
+.link-list-address {
+  color: #434455;
+}
+
+.link-list-address:hover,
+.link-list-address:focus {
+  color: #404bbf;
+}
